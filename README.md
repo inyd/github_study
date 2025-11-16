@@ -1,4 +1,4 @@
-(./dog.jpg)
+![프로필이미지](./dog.jpg)
 
 # README 파일이란?
 
